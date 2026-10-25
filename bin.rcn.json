@@ -1472,7 +1472,7 @@
     "  char.gp = 0;",
     "  char.lvl = 1;",
     "  char.xp = 0;",
-    "  char.mx_xp = 1000;",
+    "  char.mx_xp = 1500;",
     "  sta = 10 + roll_total(1, 20, char.con_mod);",
     "  char.mx_sta = sta;",
     "  char.sta = sta;",
